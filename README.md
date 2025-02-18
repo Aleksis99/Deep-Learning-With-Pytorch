@@ -4,6 +4,10 @@
 
 ## Exercises' Topics
 
+1. Python Intro
+2. Linear and Logistic Regression
+3. Backpropagation
+
 ## Online Environments And Compute Resources
 
 1. [Colab](https://colab.research.google.com/)
@@ -17,7 +21,7 @@
 
 ## Environment
 
-The course python version is 12. You can use the online Environments mentioned above but you can also setup a local environment if you want to run models locally.
+The course python version is 11. You can use the online Environments mentioned above but you can also setup a local environment if you want to run models locally.
 In the requirements.txt file you will find all the necessary libraries to run the notebooks.
 You can install them with pip.
 
@@ -28,7 +32,7 @@ You can install them with pip.
 1. To create an environment:
 
     ```
-      conda create --name <my-env> python=3.12
+      conda create --name <my-env> python=3.11
     ```
 
    Replace ``<my-env>`` with the name of your environment.
